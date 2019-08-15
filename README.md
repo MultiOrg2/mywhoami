@@ -36,6 +36,8 @@ Sec-Fetch-User: ?1
 Upgrade-Insecure-Requests: 1
 ```
 
+test
+
 On the route /api the app will expose the same information as a json body.
 
 ```
